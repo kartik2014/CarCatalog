@@ -7,5 +7,8 @@ Steps:
 ```
 PORT=3001 node bin/www
 ```
-3. In the root directory, npm start to start the dev server. 
+3. In the root directory, start the dev server with
+```
+npm start
+```
 
