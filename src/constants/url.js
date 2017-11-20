@@ -1,0 +1,5 @@
+export const API_ROOT = 'http://localhost:3000/'
+export const CAR_OF_THE_WEEK = 'carOftheWeek'
+export const MAKES = 'makes'
+export const MODELS = 'models'
+export const CAR_DETAILS = 'make/model/'
