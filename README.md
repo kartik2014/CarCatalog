@@ -6,7 +6,8 @@ Steps:
 ```
 npm install
 ```
-#Note: If you face any issues installing the node_modules, try following command from the directory you are running npm install from.
+#Note: If you face any issues installing the node_modules, type the following command from the root directory.
+
 ```
 npm config set unsafe-perm=true
 ```
