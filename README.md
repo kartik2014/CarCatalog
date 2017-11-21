@@ -17,7 +17,7 @@ You should not see any message in you terminal(unless you receive an error) , ju
 npm start
 ```
 
-#Note: If you face any issues installing the node_modules, try follwing command from the directory you are running npm install from
+#Note: If you face any issues installing the node_modules, try following command from the directory you are running npm install from.
 ```
 npm config set unsafe-perm=true
 ```
