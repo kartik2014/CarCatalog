@@ -5,7 +5,7 @@ Steps:
 1. In the root directory of the project, install the node_modules for the client side with following commands
 
 ```
-npm config set unsafe-perm=true
+npm config set unsafe-perm=true  
 ```
 
 ```
