@@ -2,16 +2,15 @@
 
 Steps:
 
-1. In the root directory of the project, install the node_modules for the client side with following command
-```
-npm install
-```
-#Note: If you face any issues installing the node_modules, type the following command from the root directory.
+1. In the root directory of the project, install the node_modules for the client side with following commands
 
 ```
 npm config set unsafe-perm=true
 ```
-..and then npm install again. 
+
+```
+npm install
+```
 
 2. Install the node_modules for the mini server with following command 
 ```
