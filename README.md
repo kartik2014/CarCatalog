@@ -21,5 +21,6 @@ npm start
 ```
 npm config set unsafe-perm=true
 ```
+..and then npm install again. 
 
 
