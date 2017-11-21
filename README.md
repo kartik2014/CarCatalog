@@ -7,6 +7,7 @@ Steps:
 ```
 npm config set unsafe-perm=true  
 ```
+_**Above command is just to fix the issue where npm install fails to install certain packages on certain node versions**_
 
 ```
 npm install
