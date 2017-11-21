@@ -13,7 +13,11 @@ npm config set unsafe-perm=true
 ```
 ..and then npm install again. 
 
-2. Go to server/react-backend directory and npm install to install the node_modules for the mini server. Once installed, start the server from this directory with 
+2. Go to server/react-backend directory and install the node_modules for the mini server with following command
+```
+npm install
+``` 
+Once installed, start the server from this directory with 
 ```
 PORT=3001 node bin/www
 ```
