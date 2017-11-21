@@ -58,7 +58,7 @@ class Details extends React.Component{
           </div>
           {this.props.details.selectedModel?<div>
             <p>{this.props.details.selectedModel.name}</p>
-            <p>Price: ${this.formatNumber(this.props.details.selectedModel.price)}</p>
+            <p>Price: $ {this.formatNumber(this.props.details.selectedModel.price)}</p>
             <img src={this.props.details.selectedModel.imageUrl} alt="Car" width="600" height="400"/>
           </div>:<div className="loader"></div>}
       </div>
